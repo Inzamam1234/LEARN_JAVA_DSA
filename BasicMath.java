@@ -72,7 +72,7 @@ public class BasicMath {
         //System.out.println(obj.reversenum(x));
         //System.out.println(obj.countdigits(x));
         //System.out.println(obj.armstringnum(x));
-        System.out.println(obj.gcd(x, y));
+        //System.out.println(obj.gcd(x, y));
 
     }
   }
